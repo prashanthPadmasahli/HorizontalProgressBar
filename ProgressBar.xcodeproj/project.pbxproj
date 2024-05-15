@@ -38,6 +38,7 @@
 		042014DA2BF1D4980048A839 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		042014E02BF1D4980048A839 /* ProgressBarTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ProgressBarTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		042014EA2BF1D4980048A839 /* ProgressBarUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ProgressBarUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		042E79872BF4D67500D2415C /* Readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Readme.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +91,7 @@
 				042014D52BF1D4960048A839 /* ContentView.swift */,
 				042014D72BF1D4980048A839 /* Assets.xcassets */,
 				042014D92BF1D4980048A839 /* Preview Content */,
+				042E79872BF4D67500D2415C /* Readme.md */,
 			);
 			path = ProgressBar;
 			sourceTree = "<group>";
