@@ -69,6 +69,7 @@
 		042014C72BF1D4960048A839 = {
 			isa = PBXGroup;
 			children = (
+				042E79872BF4D67500D2415C /* Readme.md */,
 				042014D22BF1D4960048A839 /* ProgressBar */,
 				042014D12BF1D4960048A839 /* Products */,
 			);
@@ -91,7 +92,6 @@
 				042014D52BF1D4960048A839 /* ContentView.swift */,
 				042014D72BF1D4980048A839 /* Assets.xcassets */,
 				042014D92BF1D4980048A839 /* Preview Content */,
-				042E79872BF4D67500D2415C /* Readme.md */,
 			);
 			path = ProgressBar;
 			sourceTree = "<group>";
